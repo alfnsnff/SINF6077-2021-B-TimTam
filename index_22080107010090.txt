@@ -1,3 +1,4 @@
-Nama	: T. Farhan syah
-NPM	: 2208107010090
-Cita-cita : Kapal laut
+Nama  : T. Farhan Syah
+Npm   : 2208107010090
+Cita-cita  : budiyono siregar
+
